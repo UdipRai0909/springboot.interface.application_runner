@@ -1,2 +1,2 @@
 # springboot.interface.application_runner
-SpringBoot Application Runner Example
+One of the important interfaces of Spring Boot - ApplicationRunner Example
